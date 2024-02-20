@@ -191,3 +191,8 @@
   min-height: fit-content;
   max-width: 100%;
 } */
+@media screen and (max-width:576px) {
+  .vid{
+    max-width: 100%;
+  }
+}
